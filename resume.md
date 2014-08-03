@@ -42,7 +42,38 @@ the needs and wants of this population in an info mobility product.
 ## Education
 
 ### Ecole Nationale de l'Aviation Civile (ENAC), Toulouse
+**Sep. 2006 - Sep. 2009**
+
++ M.Sc. Eng. in Aeronautical Telecommunications.
++ Coursework in radio navigation, operating systems IT, signal processing and
+transmission, networks, radio communications, industrial IT and embedded systems.
 
 ### Université Paul Sabatier, Toulouse
+**Sep. 2008 - Sep. 2009**
+
++ M.Sc. Eng. in Signal, Image, Acoustics and Optimisation.
++ Coursework in estimation, optimisation, image processing and classification.
+
+### Projects
+
++ **IPIN 2012**: responsible for the successful bid and organisation of the 3rd International Conference on Indoor Positioning and Indoor Navigation, held at UNSW in November 2012.
++ **IGNSS (2011)**: coded a conference guide app for iOS and Android for the delegates of the IGNSS2011 conference.
++ **Multi GNSS software receiver (2008)**: this receiver was developed in C++ by ENAC, I added RAIM functionality and ran a performance assessment.
+￼￼￼￼
 
 ### Skills
+**Mobile app development**
+
+Development on Android and iOS devices. Experience with a wide variety of APIs, especially parts related to Location and Sensors.
+
+**Location Based Services**
+
+Experience with designing, implementing and testing indoor and outdoor positioning algorithms using various technologies.
+
+**Web**
+
+Web service and front-end development using HTML/CSS, Javascript and JS frameworks (jQuery, jQuery Mobile), and PHP.
+
+**Programming Languages**
+
+Java, Objective-C, Python, Matlab, C++, C.
