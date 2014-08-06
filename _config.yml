@@ -1,12 +1,19 @@
-# Site settings
-title: Thomas Gallagher
-email: gallagth@gmail.com
-description: ""
-baseurl: ""
-url: "http://gallagth.github.io"
-twitter_username: gallagth
-github_username:  gallagth
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Thomas Gallagher
+tagline:          ''
+description:      ''
+url:              http://gallagth.github.io
+baseurl:          /
+
+author:
+  name:           'Thomas Gallagher'
+  url:            https://twitter.com/gallagth
+
+paginate:         5
