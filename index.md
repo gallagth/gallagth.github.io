@@ -3,24 +3,54 @@ layout: page
 title: Resume
 ---
 
+## Skills
+
+**Android development**
+
+Development on Android devices using the Android SDK. Experience with a wide variety of APIs, especially parts related to Location and Sensors.
+
+**Robotics**
+
+Designed and developed navigation, localization and mapping stacks for mobile robots. Deep knowledge and experience working with ROS.
+
+**Location Based Services**
+
+Experience with designing, implementing and testing indoor and outdoor positioning algorithms using various technologies.
+
+**Android Open Source Project**
+
+Good knowledge of how AOSP is structured and how to build and customize it.
+
+**Embedded development**
+
+Experience with developing for STM32 chips and chips designed for intensive computer vision algorithms.
+
+**Technologies**
+
+Java, C++, C, Objective-C, Python, Matlab, Git, Bash, CMake, Makefile, Jenkins, Google Cloud (App Engine & Compute Engine), HTML, CSS, Javascript
+
 ## Experience
 
 ### Software Engineer at Keecker, Paris
 **Sep. 2013 - now**
 
-Worked on various software parts of the Keecker prototype, an autonomous robot
-with a projector running Android and controlled with a smartphone.
-By order of importance I work on:
+First employee at Keecker, worked on almost all the software parts of the Keecker prototype and production unit, and the services to support it. Keecker is an autonomous robot with a projector running Android and controlled with a smartphone (see [keecker.com](http://www.keecker.com)). Some examples of what I did at Keecker include:</p>
 
-* the autonomous navigation, localization and mapping stacks of the robot,
-* the main Android service controlling the robot and linking it with the remotes,
-* optimized apps for the robot to demonstrate Keecker's SDK usage,
-* customizing the Android OS to run on Keecker's board.
++ Integration of a 3rd party depth camera in the robot, customisation of the library provided by the vendor
++ Design and develop a Keecker SDK for 3rd parties app and integrate it in our Android distribution. Wrote the first version of the developer website: [developer.keecker.com](http://www.developer.keecker.com)
++ Implement a fisheye camera dewarp algorithm on GPU and integrate it in Android's libcamera
++ Develop a WiFi based localizer for the robot
++ Automate the build and test of the robot's software to enable nightly builds and test reports
++ Develop a solution for simulating Keecker, based on the Android emulator and Gazebo
++ Develop an IPC library that uses Android's binder or shared memory to share point clouds or other data between processes without copies
++ Porting ROS and main ROS tools to Android
++ Create a bridge to output all robot's data to ROS topics to enable simple visualization and quick prototyping for control, localization or mapping algorithms
++ Arduino and electronics in the early days to develop the 1st prototype, and to build a simple robotics platform to test new potential sensors for the next iterations 
 
 ### Research Assistant at the University of New South Wales, Sydney
 **Jan. 2010 - Jul. 2013**
 
-System designer for the SIMO (Simplified Information for Mobility and Orientation) project
+Principal fotware engineer for the SIMO (Simplified Information for Mobility and Orientation) project
 
 + Designed, implemented and tested an indoor positioning platform based on sensor
 fusion running fully on Android and partially on iOS.
@@ -55,39 +85,7 @@ transmission, networks, radio communications, industrial IT and embedded systems
 
 ## Projects
 
++ See Github page for a few software projects: [github.com/gallagth](https://github.com/gallagth)
 + **IPIN 2012**: responsible for the successful bid and organisation of the 3rd International Conference on Indoor Positioning and Indoor Navigation, held at UNSW in November 2012.
 + **IGNSS (2011)**: coded a conference guide app for iOS and Android for the delegates of the IGNSS2011 conference.
 + **Multi GNSS software receiver (2008)**: this receiver was developed in C++ by ENAC, I added RAIM functionality and ran a performance assessment.
-￼￼￼￼
-
-## Skills
-
-**Android development**
-
-Development on Android devices using the Android SDK. Experience with a wide variety of APIs, especially parts related to Location and Sensors.
-
-**Robotics**
-
-Designed and developped navigation, localization and mapping stacks for mobile robots.
-
-**Location Based Services**
-
-Experience with designing, implementing and testing indoor and outdoor positioning algorithms using various technologies.
-
-**Android Open Source Project**
-
-Good knowledge of how AOSP is structured and how to build and customize it.
-
-**Embedded development**
-
-Experience with developing for STM32 chips and chips designed for intensive computer vision algorithms.
-
-**Web**
-
-Front-end: HTML/CSS, Javascript and JS frameworks (jQuery, jQuery Mobile, Angular).
-Backend: Java/Python on AppEngine, PHP.
-
-**Languages**
-
-Java, C++, C, Objective-C, Python, Go, Matlab.
-

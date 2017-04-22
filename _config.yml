@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -15,5 +15,3 @@ baseurl:          /
 author:
   name:           'Thomas Gallagher'
   url:            https://twitter.com/gallagth
-
-paginate:         5
