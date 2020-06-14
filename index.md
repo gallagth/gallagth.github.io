@@ -31,8 +31,19 @@ Java, C++, C, Objective-C, Python, Matlab, Git, Bash, CMake, Makefile, Jenkins, 
 
 ## Experience
 
+### Backend Developer at Booking.com, Amsterdam
+**Nov. 2017 - Aug. 2019**
+
+As a backend developer in the New Product Development - Attractions team, I was mainly responsible for the following items:
+
++ Developing new features for the intranet and extranet websites used by internal users and attractions partners to build supply, manage content and access various business performance metrics
++ Developing and shipping a new API for the Android Scanner app used by attractions partners to scan tickets at the entrance of the venues
++ Shipping a new externally facing API for 3rd party providers to manage attractions supply
++ Adding new dashboards and alerts to monitor the state of all our APIs
++ Pushing for CI and provisioning infrastructure to run our unit and integration test suite on each commit
+
 ### Software Engineer at Keecker, Paris
-**Sep. 2013 - now**
+**Sep. 2013 - Oct. 2017**
 
 First employee at Keecker, worked on almost all the software parts of the Keecker prototype and production unit, and the services to support it. Keecker is an autonomous robot with a projector running Android and controlled with a smartphone (see [keecker.com](http://www.keecker.com)). Some examples of what I did at Keecker include:</p>
 
@@ -45,7 +56,7 @@ First employee at Keecker, worked on almost all the software parts of the Keecke
 + Develop an IPC library that uses Android's binder or shared memory to share point clouds or other data between processes without copies
 + Porting ROS and main ROS tools to Android
 + Create a bridge to output all robot's data to ROS topics to enable simple visualization and quick prototyping for control, localization or mapping algorithms
-+ Arduino and electronics in the early days to develop the 1st prototype, and to build a simple robotics platform to test new potential sensors for the next iterations 
++ Arduino and electronics in the early days to develop the 1st prototype, and to build a simple robotics platform to test new potential sensors for the next iterations
 
 ### Research Assistant at the University of New South Wales, Sydney
 **Jan. 2010 - Jul. 2013**
