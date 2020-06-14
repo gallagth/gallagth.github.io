@@ -45,7 +45,7 @@ As a backend developer in the New Product Development - Attractions team, I was 
 ### Software Engineer at Keecker, Paris
 **Sep. 2013 - Oct. 2017**
 
-First employee at Keecker, worked on almost all the software parts of the Keecker prototype and production unit, and the services to support it. Keecker is an autonomous robot with a projector running Android and controlled with a smartphone (see [keecker.com](http://www.keecker.com)). Some examples of what I did at Keecker include:</p>
+First employee at Keecker, worked on almost all the software parts of the Keecker prototype and production unit, and the services to support it. Keecker is an autonomous robot with a projector running Android and controlled with a smartphone (see [keecker.com](http://www.keecker.com)). Some examples of what I did at Keecker include:
 
 + Integration of a 3rd party depth camera in the robot, customisation of the library provided by the vendor
 + Design and develop a Keecker SDK for 3rd parties app and integrate it in our Android distribution. Wrote the first version of the developer website: [developer.keecker.com](http://www.developer.keecker.com)
