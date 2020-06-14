@@ -45,6 +45,9 @@ Git, Jenkins, Gitlab, Kubernetes, Google Cloud (App Engine & Compute Engine)
 
 ## Experience
 
+### Software Engineer at Stanley Robotics, Paris
+**Aug. 2019 - now**
+
 ### Backend Developer at Booking.com, Amsterdam
 **Nov. 2017 - Aug. 2019**
 
