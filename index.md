@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Resume
+title:
 ---
 
-## Skills
+## Skills & Interests
+
+**Backend development**
+
+Design and build scalable RESTful APIs, database creation, integration and management. Management of large scale backend infrastructure.
+
+**Software project management**
+
+Good knowledge of the constraints and requirements needed to ship high quality software projects, including coordinating with various stakeholders. Spent a lot of time onboarding and mentoring junior developers.
 
 **Android development**
 
@@ -25,9 +33,15 @@ Good knowledge of how AOSP is structured and how to build and customize it.
 
 Experience with developing for STM32 chips and chips designed for intensive computer vision algorithms.
 
-**Technologies**
+## Technologies
 
-Java, C++, C, Objective-C, Python, Matlab, Git, Bash, CMake, Makefile, Jenkins, Google Cloud (App Engine & Compute Engine), HTML, CSS, Javascript
+**Languages**
+
+Java, Kotlin, Python, C++, C, Perl, Objective-C, Bash, Rust, CMake, Makefile, Matlab, HTML, CSS, Javascript
+
+**Tools**
+
+Git, Jenkins, Gitlab, Kubernetes, Google Cloud (App Engine & Compute Engine)
 
 ## Experience
 
