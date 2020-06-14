@@ -75,7 +75,7 @@ First employee at Keecker, worked on almost all the software parts of the Keecke
 ### Research Assistant at the University of New South Wales, Sydney
 **Jan. 2010 - Jul. 2013**
 
-Principal fotware engineer for the SIMO (Simplified Information for Mobility and Orientation) project
+Principal software engineer for the SIMO (Simplified Information for Mobility and Orientation) project
 
 + Designed, implemented and tested an indoor positioning platform based on sensor
 fusion running fully on Android and partially on iOS.
