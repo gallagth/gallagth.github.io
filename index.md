@@ -111,6 +111,7 @@ transmission, networks, radio communications, industrial IT and embedded systems
 ## Projects
 
 + See Github page for a few software projects: [github.com/gallagth](https://github.com/gallagth)
++ **LYRA-8 (2019)**: assembled a DIY version of the [LYRA-8 synthesizer from SOMA synths](https://somasynths.com/lyra-organismic-synthesizer)
 + **IPIN 2012**: responsible for the successful bid and organisation of the 3rd International Conference on Indoor Positioning and Indoor Navigation, held at UNSW in November 2012.
 + **IGNSS (2011)**: coded a conference guide app for iOS and Android for the delegates of the IGNSS2011 conference.
 + **Multi GNSS software receiver (2008)**: this receiver was developed in C++ by ENAC, I added RAIM functionality and ran a performance assessment.
